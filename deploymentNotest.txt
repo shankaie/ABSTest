@@ -1,0 +1,3 @@
+Notes from Deployment meeting with George Trubisky
+first use the release package to go to QA and then prod.
+but it is ok to deploy to prod.
